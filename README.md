@@ -1,6 +1,8 @@
 # Cyber Chef
 
-Cyber chef is a cyberpunk-themed recipe management application. This application features a glassmorphism UI, advanced media management, and local persistence for all your culinary protocols.
+Cyber chef is a cyberpunk-themed recipe management application. This application features a glassmorphism UI, advanced media management, and local persistence for all your recipes.
+
+infinition.github.io/cyberchef/
 
 ## Features
 
